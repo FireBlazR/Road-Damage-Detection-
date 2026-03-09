@@ -2,11 +2,14 @@
 
 <img width="1918" height="1078" alt="Screenshot 2026-02-17 144744" src="https://github.com/user-attachments/assets/33333dfa-a767-4258-a449-455e3d47bf38" />
 
+
 💡 Ever wondered if Artificial Intelligence can detect dangerous potholes and other road damages before accidents happen?
 
 In this video, I’ll show you how I built a Road Damage Detection System using YOLOv11 Object Detection and Machine Learning — a complete real-time Computer Vision project. 🚧🤖
 
+
 <img width="1280" height="720" alt="SQL_Thumbnail (75)" src="https://github.com/user-attachments/assets/308a4678-217f-40f0-b5fe-d3aa277a2517" />
+
 
 🔗 Youtube Link: https://youtu.be/vPvTgB9Xt3Q?si=HugQqEbrswArot1k
 
